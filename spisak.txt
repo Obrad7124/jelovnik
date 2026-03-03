@@ -4,4 +4,6 @@ rucak
 sok
 uzina
 vecera
+rostilj
+pecenje
 grickalice
